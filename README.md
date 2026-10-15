@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sigi-os.svg" width="1200" alt="SIGI OS — amber terminal, ASCII core, and boot sequence. Ready. Exploring. Building." />
+  <img src="assets/sigi-os.gif" width="1200" alt="SIGI OS — amber terminal, ASCII core, and boot sequence. Ready. Exploring. Building." />
 </p>
 
 | `01 / NOW` | `02 / SELECTED` | `03 / CONNECT` |
