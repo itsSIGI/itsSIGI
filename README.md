@@ -1,11 +1,22 @@
 <p align="center">
-  <img src="assets/sigi-os.gif" width="1200" alt="SIGI OS — amber terminal, ASCII core, and boot sequence. Ready. Exploring. Building." />
+<a href="https://itssigi.github.io/itsSIGI/"><img src="assets/sigi-os.gif" width="1200" alt="SIGI OS. Personal operating system. Amber ASCII core and startup sequence." /></a><br>
+<a href="https://itssigi.github.io/itsSIGI/"><img src="assets/console.png" width="1200" alt="NOW: Exploring ideas, building systems. SELECTED: Design systems and visual experiments. CONNECT: Enter the full SIGI OS website." /></a>
 </p>
 
-| `01 / NOW` | `02 / SELECTED` | `03 / CONNECT` |
-| :--- | :--- | :--- |
-| Exploring ideas.<br>Building systems.<br>Making things real.<br><br>Design, code, and whatever comes next. | [Sigi Design Skills](https://github.com/itsSIGI/sigi-design-skills)<br>AI-powered design workflow.<br><br>[Agentic Design System](https://github.com/itsSIGI/agentic-design-system-skill)<br>Design-system foundations.<br><br>[Aurora HTML PPT](https://github.com/itsSIGI/aurora-html-ppt)<br>Aurora-style presentation toolkit. | Let's build<br>what's next.<br><br>[Explore my repositories →](https://github.com/itsSIGI?tab=repositories) |
+<p align="center"><a href="https://itssigi.github.io/itsSIGI/">ENTER SIGI OS ↗</a> · <a href="https://github.com/itsSIGI/sigi-design-skills">Design Skills</a> · <a href="https://github.com/itsSIGI/agentic-design-system-skill">Design System</a> · <a href="https://github.com/itsSIGI/aurora-html-ppt">Aurora PPT</a></p>
 
----
+<details>
+<summary>Text mode / accessible project directory</summary>
 
-`sigi@workspace:~$` **Always a work in progress.**
+### 01 / NOW
+Exploring ideas. Building systems. Making things real. Design, code, and whatever comes next.
+
+### 02 / SELECTED
+- [Sigi Design Skills](https://github.com/itsSIGI/sigi-design-skills): AI-powered design workflow.
+- [Agentic Design System](https://github.com/itsSIGI/agentic-design-system-skill): Design-system foundations.
+- [Aurora HTML PPT](https://github.com/itsSIGI/aurora-html-ppt): Aurora-style presentation toolkit.
+
+### 03 / CONNECT
+[Enter the full SIGI OS](https://itssigi.github.io/itsSIGI/) or [explore my repositories](https://github.com/itsSIGI?tab=repositories).
+
+</details>
