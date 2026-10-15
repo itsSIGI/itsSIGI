@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+<title id="title">SIGI OS personal operating system</title><desc id="desc">Amber terminal with a central ASCII core and boot sequence. System ready.</desc>
+<defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 3H4" stroke="#efaa32" stroke-opacity=".045"/></pattern><radialGradient id="light"><stop stop-color="#efaa32" stop-opacity=".09"/><stop offset="1" stop-color="#efaa32" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="460" fill="#0c0b09"/><rect width="1200" height="460" fill="url(#scan)"/><ellipse cx="600" cy="240" rx="330" ry="205" fill="url(#light)"/>
+<g fill="none" stroke="#efaa32" stroke-opacity=".55"><rect x="18" y="18" width="1164" height="424"/><path d="M18 61H1182"/></g>
+<g fill="#efaa32" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<text x="42" y="45" font-size="15" opacity="1" xml:space="preserve">SIGI OS / v.01</text>
+<text x="1040" y="45" font-size="14" opacity="1" xml:space="preserve">USER: SIGI</text>
+<text x="46" y="198" font-size="38" opacity="1" xml:space="preserve">&gt; SIGI OS</text>
+<text x="76" y="242" font-size="14" opacity="1" xml:space="preserve">IDEAS</text>
+<text x="76" y="266" font-size="14" opacity="1" xml:space="preserve">SYSTEMS</text>
+<text x="76" y="290" font-size="14" opacity="1" xml:space="preserve">A BRIGHTER TOMORROW</text>
+<text x="355" y="99" font-size="11" opacity="0.5" xml:space="preserve">                                =+=                                </text>
+<text x="355" y="108" font-size="11" opacity="0.5151515151515151" xml:space="preserve">                               =+===                               </text>
+<text x="355" y="117" font-size="11" opacity="0.5303030303030303" xml:space="preserve">                              =+===+=                              </text>
+<text x="355" y="126" font-size="11" opacity="0.5454545454545454" xml:space="preserve">                             =+===+===                             </text>
+<text x="355" y="135" font-size="11" opacity="0.5606060606060606" xml:space="preserve">                            =+===+===+=                            </text>
+<text x="355" y="144" font-size="11" opacity="0.5757575757575758" xml:space="preserve">                           =+===+===+===                           </text>
+<text x="355" y="153" font-size="11" opacity="0.5909090909090909" xml:space="preserve">                          =+===+===+===+=                          </text>
+<text x="355" y="162" font-size="11" opacity="0.6060606060606061" xml:space="preserve">                         =+===+===+===+===                         </text>
+<text x="355" y="171" font-size="11" opacity="0.6212121212121212" xml:space="preserve">                        =+===+===+===+===+=                        </text>
+<text x="355" y="180" font-size="11" opacity="0.6363636363636364" xml:space="preserve">                       =+===+===+===+===+===                       </text>
+<text x="355" y="189" font-size="11" opacity="0.6515151515151515" xml:space="preserve">                      =+===+===+===+===+===+=                      </text>
+<text x="355" y="198" font-size="11" opacity="0.6666666666666666" xml:space="preserve">                     =+===+===+===+===+===+===                     </text>
+<text x="355" y="207" font-size="11" opacity="0.6818181818181819" xml:space="preserve">                    =+===+===+===+===+===+===+=                    </text>
+<text x="355" y="216" font-size="11" opacity="0.696969696969697" xml:space="preserve">                   =+===+===+===+ ==+===+===+===                   </text>
+<text x="355" y="225" font-size="11" opacity="0.7121212121212122" xml:space="preserve">                  =+===+===+===+   +===+===+===+=                  </text>
+<text x="355" y="234" font-size="11" opacity="0.7272727272727273" xml:space="preserve">                 =+===+===+===+=   ===+===+===+===                 </text>
+<text x="355" y="243" font-size="11" opacity="0.7424242424242424" xml:space="preserve">                =+===+===+===+=     =+===+===+===+=                </text>
+<text x="355" y="252" font-size="11" opacity="0.7575757575757576" xml:space="preserve">               =+===+===+===+=       ===+===+===+===               </text>
+<text x="355" y="261" font-size="11" opacity="0.7727272727272727" xml:space="preserve">              =+===+===+===+==       ==+===+===+===+=              </text>
+<text x="355" y="270" font-size="11" opacity="0.7878787878787878" xml:space="preserve">             =+===+===+===+==         +===+===+===+===             </text>
+<text x="355" y="279" font-size="11" opacity="0.803030303030303" xml:space="preserve">            =+===+===+===+==           ==+===+===+===+=            </text>
+<text x="355" y="288" font-size="11" opacity="0.8181818181818181" xml:space="preserve">           =+===+===+===+===           =+===+===+===+===           </text>
+<text x="355" y="297" font-size="11" opacity="0.8333333333333333" xml:space="preserve">          =+===+===+===+===             ===+===+===+===+=          </text>
+<text x="355" y="306" font-size="11" opacity="0.8484848484848485" xml:space="preserve">         =+===+===+===+===               =+===+===+===+===         </text>
+<text x="355" y="315" font-size="11" opacity="0.8636363636363636" xml:space="preserve">        =+===+===+===+===+               +===+===+===+===+=        </text>
+<text x="355" y="324" font-size="11" opacity="0.8787878787878788" xml:space="preserve">       =+===+===+===+===+                 ==+===+===+===+===       </text>
+<text x="355" y="333" font-size="11" opacity="0.8939393939393939" xml:space="preserve">      =+===+===+===+===+                   +===+===+===+===+=      </text>
+<text x="355" y="342" font-size="11" opacity="0.9090909090909092" xml:space="preserve">     =+===+===+===+===+=                   ===+===+===+===+===     </text>
+<text x="355" y="351" font-size="11" opacity="0.9242424242424243" xml:space="preserve">    =+===+===+===+===+=                     =+===+===+===+===+=    </text>
+<text x="355" y="360" font-size="11" opacity="0.9393939393939394" xml:space="preserve">   =+===+===+===+===+=                       ===+===+===+===+===   </text>
+<text x="355" y="369" font-size="11" opacity="0.9545454545454546" xml:space="preserve">  =+===+===+===+===+==                       ==+===+===+===+===+=  </text>
+<text x="355" y="378" font-size="11" opacity="0.9696969696969697" xml:space="preserve"> =+===+===+===+===+==                         +===+===+===+===+=== </text>
+<text x="355" y="387" font-size="11" opacity="0.9848484848484849" xml:space="preserve">=+===+===+===+===+===                         ===+===+===+===+===+=</text>
+<text x="855" y="139" font-size="16" opacity="1" xml:space="preserve">&gt; BOOT SEQUENCE...</text>
+<text x="870" y="178" font-size="13" opacity="1" xml:space="preserve">[OK] CORE MODULES</text>
+<text x="870" y="203" font-size="13" opacity="1" xml:space="preserve">[OK] CREATIVE SYSTEMS</text>
+<text x="870" y="228" font-size="13" opacity="1" xml:space="preserve">[OK] EXPLORATION PROTOCOLS</text>
+<text x="870" y="253" font-size="13" opacity="1" xml:space="preserve">[OK] FUTURE INTERFACE</text>
+<path d="M870 286H1130" stroke="#efaa32" stroke-opacity=".6"/>
+<text x="870" y="318" font-size="18" opacity="1" xml:space="preserve">READY.</text>
+<text x="870" y="344" font-size="18" opacity="1" xml:space="preserve">EXPLORING.</text>
+<text x="870" y="370" font-size="18" opacity="1" xml:space="preserve">BUILDING.</text>
+<text x="42" y="419" font-size="11" opacity="0.65" xml:space="preserve">PERSONAL OPERATING SYSTEM</text>
+<text x="900" y="419" font-size="11" opacity="0.65" xml:space="preserve">IDEAS TO REALITY</text>
+</g></svg>
