@@ -4,8 +4,8 @@
 <rect width="1200" height="460" fill="#0c0b09"/><rect width="1200" height="460" fill="url(#scan)"/><ellipse cx="600" cy="240" rx="330" ry="205" fill="url(#light)"/>
 <g fill="none" stroke="#efaa32" stroke-opacity=".55"><rect x="18" y="18" width="1164" height="424"/><path d="M18 61H1182"/></g>
 <g fill="#efaa32" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-<text x="42" y="45" font-size="15" opacity="1" xml:space="preserve">SIGI OS / v.01</text>
-<text x="1040" y="45" font-size="14" opacity="1" xml:space="preserve">USER: SIGI</text>
+<text x="42" y="45" font-size="15" opacity="1" xml:space="preserve">SIGI OS / RECOVERY MODE</text>
+<text x="1040" y="45" font-size="14" opacity="1" xml:space="preserve">PLAY: SIGI</text>
 <text x="46" y="198" font-size="38" opacity="1" xml:space="preserve">&gt; SIGI OS</text>
 <text x="76" y="242" font-size="14" opacity="1" xml:space="preserve">IDEAS</text>
 <text x="76" y="266" font-size="14" opacity="1" xml:space="preserve">SYSTEMS</text>
@@ -49,9 +49,9 @@
 <text x="870" y="228" font-size="13" opacity="1" xml:space="preserve">[OK] EXPLORATION PROTOCOLS</text>
 <text x="870" y="253" font-size="13" opacity="1" xml:space="preserve">[OK] FUTURE INTERFACE</text>
 <path d="M870 286H1130" stroke="#efaa32" stroke-opacity=".6"/>
-<text x="870" y="318" font-size="18" opacity="1" xml:space="preserve">READY.</text>
-<text x="870" y="344" font-size="18" opacity="1" xml:space="preserve">EXPLORING.</text>
-<text x="870" y="370" font-size="18" opacity="1" xml:space="preserve">BUILDING.</text>
+<text x="870" y="318" font-size="18" opacity="1" xml:space="preserve">CORE OFFLINE.</text>
+<text x="870" y="344" font-size="18" opacity="1" xml:space="preserve">CLICK TO</text>
+<text x="870" y="370" font-size="18" opacity="1" xml:space="preserve">REPAIR &gt;</text>
 <text x="42" y="419" font-size="11" opacity="0.65" xml:space="preserve">PERSONAL OPERATING SYSTEM</text>
-<text x="900" y="419" font-size="11" opacity="0.65" xml:space="preserve">IDEAS TO REALITY</text>
+<text x="900" y="419" font-size="11" opacity="0.65" xml:space="preserve">8-BIT CIRCUIT PUZZLE</text>
 </g></svg>
